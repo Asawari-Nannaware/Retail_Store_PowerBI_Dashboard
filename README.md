@@ -3,7 +3,7 @@
 
 Below is a screenshot of the dashboard:
 
-![retail store _dashboard](https://github.com/Asawari-Nannaware/coffee-sales-dashhboard/blob/main/coffeee%20sales%20dashboard.png)
+![retail store _dashboard](https://github.com/Asawari-Nannaware/Retail_Store_PowerBI_Dashboard/blob/main/Madhav%20Store%20dashboard.jpg)
 
 ##Project Overview
 This interactive dashboard provides a comprehensive analysis of the sales performance for Madhav Ecommerce, a leading online retailer. By consolidating key metrics and visualizing trends across various dimensions, the dashboard empowers stakeholders to make informed business decisions.
